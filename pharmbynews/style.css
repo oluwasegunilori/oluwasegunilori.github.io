@@ -44,7 +44,7 @@ h6 {
 
 p {
   font-family: sans-serif;
-  color: #777777;
+  color: #000000;
   font-size: 14px;
   line-height: 2;
   font-weight: 200;
@@ -1899,7 +1899,7 @@ blockquote {
   .comment_area .comment-content .comment-meta {
     margin-bottom: 30px; }
     .comment_area .comment-content .comment-meta .comment-date {
-      font-size: 12px;
+      font-size: 1px;
       color: #777777;
       text-transform: uppercase;
       letter-spacing: 2px;
